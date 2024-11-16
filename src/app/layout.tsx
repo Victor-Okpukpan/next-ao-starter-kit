@@ -5,7 +5,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "AO + Next",
+  title: "Next.js + AO",
   description: "Generated with Next AO Starter Kit.",
 };
 
